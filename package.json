@@ -22,7 +22,6 @@
   "_resolved": "https://registry.npmjs.org/binaryjs/-/binaryjs-0.2.1.tgz",
   "_shasum": "28edb40b1830278f5598eb00c3679253e8e99dee",
   "_spec": "binaryjs",
-  "_where": "C:\\Users\\emre_\\Desktop\\ApplogicSZFWR-master-9239703c2bbf50ef94edb2f07a625d483bb1ccce",
   "author": {
     "name": "Eric Zhang",
     "url": "http://ericzhang.com"
@@ -50,7 +49,7 @@
   "name": "binaryjs",
   "repository": {
     "type": "git",
-    "url": "git://github.com/binaryjs/binaryjs.git"
+    "url": "git://github.com/emre93/binaryjs"
   },
   "scripts": {
     "test": "make test"
